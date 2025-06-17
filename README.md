@@ -1,4 +1,4 @@
-hmmm u r new to RAG ? djando ? 
+hmmm u r new to RAG ? django ? 
 you want to work with these for understanding and workflow
 
 u r landed in a perfect repo 
